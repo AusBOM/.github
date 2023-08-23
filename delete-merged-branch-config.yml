@@ -1,0 +1,6 @@
+exclude: 
+  - feature-develop
+  - staging
+  - main
+  - master
+  - release-candidate
