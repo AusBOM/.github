@@ -10,8 +10,8 @@ _insert description_
 
 ## Checklist
 
-- [ ] My change requires a change to the documentation and docs have been updated.
-- [ ] I have added tests to cover my changes.
+- [ ] Documentation has been updated where required, e.g. README, Confluence.
+- [ ] This change includes tests that cover the full scope of changes.
 - [ ] This change can be rolled back or has been marked as breaking.
 - [ ] This PR identifies the PRs of other projects on which it depends.
 
